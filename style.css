@@ -172,8 +172,8 @@ background-position: 0px 0px;
 .ds4 .stick {
     position: absolute;
     background: url(https://gitgud.io/Major_Zero/dualsense/-/raw/master/sticks.svg);
-    height: 93px;
-    width: 93px;
+    height: 92px;
+    width: 92px;
 }
 
 .ds4 .stick.pressed.left {
