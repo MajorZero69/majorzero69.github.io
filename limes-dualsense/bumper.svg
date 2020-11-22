@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="99.433411"
+   height="33.900345"
+   viewBox="-256 385.6 99.433409 33.900345"
+   enable-background="new -256 385.6 98.9 22.4"
+   xml:space="preserve"
+   sodipodi:docname="bumper.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata13"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs11"><filter
+     style="color-interpolation-filters:sRGB"
+     inkscape:label="Invert"
+     id="filter859"><feColorMatrix
+       type="hueRotate"
+       values="180"
+       result="color1"
+       id="feColorMatrix855" /><feColorMatrix
+       values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+       result="color2"
+       id="feColorMatrix857" /></filter></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview9"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="8.665454"
+   inkscape:cx="45.204356"
+   inkscape:cy="1.3119602"
+   inkscape:window-x="3832"
+   inkscape:window-y="898"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<path
+   style="display:inline;fill:#e4e4eb;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m -190.39642,385.60002 c -1.04991,-6.3e-4 -2.07024,0.0113 -3.05567,0.0396 -3.94167,0.11184 -7.33439,0.46618 -13.54107,1.73357 -6.20665,1.26739 -15.22864,3.4484 -22.73035,6.27197 -7.50164,2.82357 -13.48742,6.29205 -17.22319,8.58379 -3.73577,2.29175 -5.22815,3.4111 -6.14097,4.37036 -0.91276,0.95927 -1.24819,1.76026 -1.74221,4.70522 -0.33819,2.01597 -0.75207,5.05861 -1.17012,8.19581 3.55983,-0.91716 8.00129,-1.97453 13.60902,-3.17305 12.06913,-2.57949 29.35213,-5.77922 43.14882,-8.18222 13.79665,-2.40299 24.10255,-4.00793 30.88165,-4.82384 6.01776,-0.72427 9.24944,-0.82488 11.79392,-0.63633 -0.18259,-2.15711 -0.62516,-5.21041 -0.97737,-7.45568 -0.37289,-2.37706 -0.63281,-3.81114 -0.92177,-4.79912 -0.28894,-0.98798 -0.60602,-1.52965 -1.77063,-2.01406 -1.16461,-0.48439 -3.1781,-0.91316 -6.70073,-1.34187 -3.52264,-0.4287 -8.55671,-0.85719 -13.31866,-1.13676 -3.57145,-0.20965 -6.9909,-0.33468 -10.14067,-0.33732 z"
+   id="path980"
+   inkscape:connector-curvature="0" /><path
+   style="display:inline;fill:#1a1a21;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 237.7347,431.60007 c -3.14978,0.003 -6.57048,0.1276 -10.14191,0.33733 -4.76194,0.27957 -9.7948,0.70805 -13.31743,1.13675 -3.52267,0.42871 -5.5361,0.85748 -6.70076,1.34188 -1.16463,0.4844 -1.48165,1.02607 -1.77063,2.01405 -0.28876,0.98797 -0.54887,2.42206 -0.92179,4.79911 -0.35226,2.24527 -0.79582,5.29858 -0.97856,7.45569 2.54468,-0.18867 5.77636,-0.0881 11.79519,0.63634 6.77907,0.8159 17.08373,2.42084 30.88041,4.82383 13.79664,2.40299 31.08091,5.60273 43.15003,8.18222 5.60777,1.19853 10.04826,2.25589 13.60782,3.17306 -0.4181,-3.13719 -0.83074,-6.17987 -1.16894,-8.19583 -0.49402,-2.94495 -0.82941,-3.74593 -1.74221,-4.7052 -0.91275,-0.95927 -2.40525,-2.07862 -6.14097,-4.37036 -3.73576,-2.29175 -9.72148,-5.76023 -17.2232,-8.5838 -7.50172,-2.82357 -16.52489,-5.00457 -22.73155,-6.27197 -6.20667,-1.26738 -9.59811,-1.62176 -13.53983,-1.73356 -0.98543,-0.028 -2.00576,-0.0404 -3.05567,-0.0396 z"
+   id="path987"
+   inkscape:connector-curvature="0" /></svg>
