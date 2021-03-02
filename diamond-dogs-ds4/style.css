@@ -1,0 +1,8 @@
+/*update ps4 controller svg*/
+.controller.ds4 {
+    background: url(https://gitgud.io/Major_Zero/diamond-dogs-ds4/-/raw/master/base.svg);
+}
+
+.ds4 .back.pressed, .ds4 .start.pressed {
+    background: url(https://gamepadviewer.com/ps4-assets/start.svgz);
+}
